@@ -1,6 +1,7 @@
 # ppm_encoder
-Generate PPM signal using Arduino
 
-# Notes
+A fully customizable (channel number, polarity, ppm frame length, pulse length) PPM signal for Arduino without using delays.
 
-This code was originally written by David Hasko and published on [Google Code](https://code.google.com/p/generate-ppm-signal/ ). Since that service is closed, and not very user friendly, I have put it here, so it does not get lost.
+# Credits
+
+This code was originally written and published on [Google Code](https://code.google.com/p/generate-ppm-signal) by David Hasko. It was then imported to GitHub by [Paweł Spychalski](https://github.com/DzikuVx).

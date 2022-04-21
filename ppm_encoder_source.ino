@@ -1,6 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0
+// Copyright © 2013 David Hasko
+
 /*
- * PPM generator originally written by David Hasko
- * on https://code.google.com/p/generate-ppm-signal/ 
+ * This Arduino code will generate a fully customizable (channel number,
+ * polarity, ppm frame length, pulse length) ppm signal without using delays.
  */
 
 //////////////////////CONFIGURATION///////////////////////////////
